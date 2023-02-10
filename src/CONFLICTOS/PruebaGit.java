@@ -6,6 +6,8 @@ public class PruebaGit {
 		
 		System.out.println("Prueba git");
 		
+		System.out.println("Cambios desde rama alternativa");
+		
 	}
 	
 }

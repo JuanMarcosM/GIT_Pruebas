@@ -8,7 +8,9 @@ public class PruebaGit {
 		
 		System.out.println("Cambios desde rama alternativa");
 		
+
 		System.out.println("Cambios desde master");
+
 	}
 	
 }
